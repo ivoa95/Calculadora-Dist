@@ -1,0 +1,8 @@
+O objetivo desse programa era deixar tal igual ao que o professor deu de exemplo em aula. Seria um composto
+de algumas funções no código como por exemplo manter o Data e poder pedir uma Calculadora posteriormente sem 
+a necessidade de um novo código. Nesse sistema utilizamos socket em java.
+Esse projeto foi criado visando a calculadora que por sua vez foi desenvolvida métodos de seleção
+para sua execução. As 4 operações básicas serão realizadas no servidor 1 e outras 3 operações
+como porcentagem, potenciação e raiz quadrada serão realizadas no servidor 2, essas escolhas são determinadas 
+com base no menú exibido que através disso fará o direcionamento para o server correspondende. 
+As portas utilizadas para ambos servidores foram as 5050 e 5051.
